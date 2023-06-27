@@ -1,5 +1,3 @@
-# https-github.com-EMerdzhanov-Secure-Matrix-LLC-Penetration-Test
-
 Summary of Weaknesses
 
 We successfully found several critical vulnerabilities that should be immediately addressed in order to prevent an adversary from compromising the network. These findings are not specific to a software version but are more general and systemic vulnerabilities.
